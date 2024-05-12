@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sara Alqethami</h1>
-<h3 align="center">I'm an AI/Data Engineer based in Saudi Arabia. My passion lies in leveraging the power of artificial intelligence and data to solve complex problems and drive meaningful insights. With a strong background in machine learning, data engineering, and software development, I enjoy working on diverse projects that involve data analysis, predictive modeling, and building scalable AI solutions. If you're interested in AI, data engineering, or any related topics, feel free to connect with me. I'm always open to exciting collaborations, discussions, and opportunities to make a positive impact through technology.</h3>
+<h3 align="center">I'm an AI/Data Engineer based in Saudi Arabia. My passion lies in leveraging the power of artificial intelligence and data to solve complex problems and drive meaningful insights. I enjoy working on diverse projects that involve data analysis, predictive modeling, and building scalable AI solutions. If you're interested in AI, data engineering, or any related topics, feel free to connect with me. I'm always open to exciting collaborations, discussions, and opportunities to make a positive impact through technology.</h3>
 
 - 📫 How to reach me **sara_alqethami@hotmail.com**
 
